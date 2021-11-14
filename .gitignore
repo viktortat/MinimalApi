@@ -5,3 +5,4 @@ obj/
 riderModule.iml
 /_ReSharper.Caches/
 /efbundle.exe
+Todo.Dapper/todos.db
